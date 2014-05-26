@@ -1,0 +1,8 @@
+	JDBC Assignment 1
+---------------------------------------------------------------
+1. What is JDBC?
+2. What is JDBC Driver?
+3. What are the steps to connect to database in java?
+4. How can we execute stored procedures and functions?
+5. How can we store and retrieve images from the database?
+----------------------------------------------------------------
